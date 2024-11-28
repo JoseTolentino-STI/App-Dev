@@ -13,7 +13,7 @@
 - 🏛️ Power & Politics: A battle for Arrakis, home to the galaxy’s most valuable resource, spice melange.
 - 🌠 Destiny & Prophecy: Paul Atreides faces a destiny greater than himself.
 - 🏜️ Environment & Survival: Life on Arrakis pushes the limits of human resilience.
-### 🎭 Main Cast
+### 🎭 Main Cast of Dune
 | Character | Actor | Role |
 | :---         |     :---:      |     :---:      |
 | Paul Atreides   | Timothée Chalamet    | A young noble destined for greatness.    |
